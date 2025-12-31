@@ -1,0 +1,15 @@
+#bookSplash {
+    width: 200px;
+    height: auto;
+}
+
+body {
+    background-color: darkslategrey;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+

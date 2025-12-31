@@ -1,0 +1,88 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Fazóna",
+      "author": "Miika Nousiainen",
+      "year": 2020,
+      "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1660471508i/61962336.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Kleopatra",
+      "author": "Coco Mellors",
+      "year": 2022,
+      "image": "https://covers.openlibrary.org/b/id/12888169-L.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Klinika",
+      "author": "Pavol Rankov",
+      "year": 2022,
+      "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1668779008i/63347047.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Muži, ktorí nenávidia ženy",
+      "author": "Stieg Larsson",
+      "year": 2005,
+      "image": "https://covers.openlibrary.org/b/id/15145260-L.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Vivian",
+      "author": "Francesca Diotallevi",
+      "year": 2018,
+      "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1628017476i/58694817.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Víťazi",
+      "author": "Fredrik Backman",
+      "year": 2022,
+      "image": "https://covers.openlibrary.org/b/id/13105931-L.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Z neznámých důvodů",
+      "author": "Zdena Frýbová",
+      "year": 1988,
+      "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1431869491i/15831157.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Krycie meno Verity",
+      "author": "Elizabeth Wein",
+      "year": 2012,
+      "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1388161911i/11925514.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Ocelové Leto",
+      "author": "Silvia Avallone",
+      "year": 2014,
+      "image": "https://www.databazeknih.cz/img/books/21_/210763/bmid_ocelove-leto-kiU-210763.webp?v=1539032980"
+    },
+    {
+      "id": 10,
+      "title": "Jediná žena v miestnosti",
+      "author": "Marie Benedict",
+      "year": 2019,
+      "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1529420612i/39971465.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Drahý Aarone",
+      "author": "Mariana Zapata",
+      "year": 2017,
+      "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1678373039i/123211306.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Labutí dům",
+      "author": "Krolupperová Daniela",
+      "year": 2021,
+      "image": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1635760091i/59511598.jpg"
+    }
+  ]
+}
